@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH402: Neuropsychology"
+course_description: "A survey of the field of psychology devoted to understanding how the brain functions and how it interacts with the body in order to control and mediate behaviors and actions."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Higher Functions** <span id="9"></span> 
 *While there are many areas of neuropsychology that remain unexplained,
 we know shockingly little about the brain’s ability to control our

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH402: Neuropsychology"
+course_description: "A survey of the field of psychology devoted to understanding how the brain functions and how it interacts with the body in order to control and mediate behaviors and actions."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Motor System** <span id="6"></span> 
 *Physical movement of any sort is a complex act requiring the seamless
 coordination of multiple body systems. Considering the millions of ways

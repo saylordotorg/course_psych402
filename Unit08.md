@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH402: Neuropsychology"
+course_description: "A survey of the field of psychology devoted to understanding how the brain functions and how it interacts with the body in order to control and mediate behaviors and actions."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Cortical Functions: The Occipital, Parietal, Temporal, and
 Frontal Lobes** <span id="8"></span> 
 *For the purposes of study, neuropsychologists have divided our brains

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH402: Neuropsychology"
+course_description: "A survey of the field of psychology devoted to understanding how the brain functions and how it interacts with the body in order to control and mediate behaviors and actions."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Cerebral Asymmetry** <span id="7"></span> 
 *You may know that the brain is comprised of two hemispheres, the left
 and the right. You may not know that these two sides function

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH402: Neuropsychology"
+course_description: "A survey of the field of psychology devoted to understanding how the brain functions and how it interacts with the body in order to control and mediate behaviors and actions."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Methods for Studying Brain Function** <span id="4"></span> 
 *This unit will focus on the different brain technologies and techniques
 that have been developed to facilitate the study of brain

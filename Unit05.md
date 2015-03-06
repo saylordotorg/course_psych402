@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH402: Neuropsychology"
+course_description: "A survey of the field of psychology devoted to understanding how the brain functions and how it interacts with the body in order to control and mediate behaviors and actions."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Sensory Systems** <span id="5"></span> 
 *This unit will explore the sensory system, a part of the nervous system
 that enables us to receive stimuli from the environment around us and

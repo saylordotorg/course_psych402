@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH402: Neuropsychology"
+course_description: "A survey of the field of psychology devoted to understanding how the brain functions and how it interacts with the body in order to control and mediate behaviors and actions."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Organization of the Nervous System** <span id="2"></span> 
 *The structure of the nervous system is extremely complex, in part
 because we have had to devise ways to refer to specific parts of it

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH402: Neuropsychology"
+course_description: "A survey of the field of psychology devoted to understanding how the brain functions and how it interacts with the body in order to control and mediate behaviors and actions."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Development of Neuropsychology** <span id="1"></span> 
 *Although neurospsychology is relatively new as a formal discipline, the
 brain and its mysterious functioning have prompted study and

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH402: Neuropsychology"
+course_description: "A survey of the field of psychology devoted to understanding how the brain functions and how it interacts with the body in order to control and mediate behaviors and actions."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Neurons, Neurotransmitters, and Receptors** <span
 id="3"></span> 
 *Now that you are familiar with the structure of the brain, you will
