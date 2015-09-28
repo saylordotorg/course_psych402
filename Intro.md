@@ -99,3 +99,4 @@ and
 - [Unit 8](https://legacy.saylor.org/psych402/Unit08/)
 - [Unit 9](https://legacy.saylor.org/psych402/Unit09/)
 - [Unit 10](https://legacy.saylor.org/psych402/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH402/PSYCH402-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH402/PSYCH402-FinalExam-Answers.html)
