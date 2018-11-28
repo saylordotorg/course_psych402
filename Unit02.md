@@ -210,7 +210,7 @@ id="2.3.1"></span> 
 id="2.3.2"></span> 
 -   **Reading: Boundless: “Spinal Nerves”**
     Link: Boundless: [“Spinal
-    Nerves”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Boundless.coms-Spinal-Nerves.pdf)
+    Nerves”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/Boundless.coms-Spinal-Nerves.pdf)
     (PDF)  
         
      Instructions: Read this article to learn about spinal nerves,

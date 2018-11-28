@@ -82,7 +82,7 @@ computer;
  √    be competent in the English language;  
   
  √    have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
   
 **Table of Contents:** You can find the course's units at the links below.
