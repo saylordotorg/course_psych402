@@ -305,7 +305,7 @@ id="5.4.4"></span> 
 **5.4.5 The Somatosensory Pathways** <span id="5.4.5"></span> 
 -   **Reading: Boundless: “Somatosensory System”**
     Link: Boundless: [“Somatosensory
-    System”](http://www.saylor.org/site/wp-content/uploads/2013/05/Boundless.coms-Somatosensory-System.pdf)
+    System”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Boundless.coms-Somatosensory-System.pdf)
     (PDF)  
         
      Instructions: Read this article to learn about the somatosensory
